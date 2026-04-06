@@ -3,7 +3,7 @@ import heroImg from "../assets/HeroImg.png";
 
 const Hero = () => {
   return (
-    <div className="mt-8 mb-10">
+    <div className="mt-8 mb-27">
       <div className="container bg-linear-to-r from-[#C1DEE8] to-[#FBD9B9] rounded-[15px] font-poppins shadow-md flex flex-col lg:flex-row lg:justify-between lg:items-center xl:items-start">
         <div className="lg:w-[40%] lg:ml-11.5 mt-22.5 pl-8">
           <h3 className="font-medium text-lg">Welcome to RealState</h3>
